@@ -1,0 +1,13 @@
+.checkbox {
+    transform: scale(2.5);
+}
+
+.imgLogo {
+    height: 100px;
+    width: 150px;
+    
+}
+
+body {
+    background-color: rgb(228, 228, 228);
+}
